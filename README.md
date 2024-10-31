@@ -11,6 +11,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Akarshj2003/Leet/tree/master/0300-longest-increasing-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Akarshj2003/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akarshj2003/Leet/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/Akarshj2003/Leet/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Akarshj2003/Leet/tree/master/0300-longest-increasing-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Akarshj2003/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akarshj2003/Leet/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/Akarshj2003/Leet/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
@@ -39,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2554-minimum-total-distance-traveled](https://github.com/Akarshj2003/Leet/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
