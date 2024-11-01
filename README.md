@@ -47,4 +47,8 @@
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akarshj2003/Leet/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Akarshj2003/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
