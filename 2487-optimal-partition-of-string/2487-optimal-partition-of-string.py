@@ -4,12 +4,12 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        st=[]
+        st=""
         de=1
         for i in s:
             if i in st:
-                st=[]
+                st=""
                 de+=1
-                st.append(i)
-            else: st.append(i)     
+                st = st + i
+            else: st = st + i     
         return de
