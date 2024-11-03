@@ -1,15 +1,16 @@
 class Solution {
     public int partitionString(String s) {
-        int de = 1;
-        String su = "";
-        for(char i : s.toCharArray()){
-            if(su.indexOf(i) != -1){
-                de++;
-                su = "";
+        boolean[] HashSet= new boolean[26];
+        int count=1;
+        for(int i=0;i<s.length();i++)
+        {
+            if(HashSet[s.charAt(i)-'a'])
+            {
+                count+=1;
+                HashSet=new boolean[26];
             }
-            su += i;
+            HashSet[s.charAt(i)-'a']=true;
         }
-        return de;
-        
+        return count;
     }
 }
