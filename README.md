@@ -31,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
@@ -47,11 +48,13 @@
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akarshj2003/Leet/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Akarshj2003/Leet/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Akarshj2003/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/Akarshj2003/Leet/tree/master/2580-circular-sentence) |
 ## String Matching
 |  |
