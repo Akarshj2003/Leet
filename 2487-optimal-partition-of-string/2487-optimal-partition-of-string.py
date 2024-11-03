@@ -10,6 +10,5 @@ class Solution(object):
             if i in st:
                 st=""
                 de+=1
-                st = st + i
-            else: st = st + i     
+            st += i     
         return de
