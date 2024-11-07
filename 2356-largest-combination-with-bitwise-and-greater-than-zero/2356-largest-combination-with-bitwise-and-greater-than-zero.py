@@ -1,10 +1,10 @@
 class Solution:
     def largestCombination(self, candi: List[int]) -> int:
-        bitmax=[0]*32
-        for n in candi:
-            i=0
-            while n > 0:
-                bitmax[i] += 1&n
-                i+=1
-                n=n>>1
-        return max(bitmax)
+        res=0
+        for i in range(32):
+            co = 0
+            for n in candi:
+                co+=1 if (1<<i) & n else 0
+            
+            res=max(res,co)
+        return res
