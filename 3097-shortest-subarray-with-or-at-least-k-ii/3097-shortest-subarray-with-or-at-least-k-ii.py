@@ -1,16 +1,17 @@
 class Solution:
     def minimumSubarrayLength(self, nums: List[int], k: int) -> int:
         res= float("inf")
-        bits=[0]*32
+        leg=len(str(bin(max(max(nums),k))[2:]))
+        bits=[0]*leg
         def bup(bit,n,to):
-            for i in range(32):
+            for i in range(leg):
                 if n & (1 << i):
                     bit[i] += to
             return bit
 
         def btoi(bit):
             res=0
-            for i in range(32):
+            for i in range(leg):
                 if bit[i]:
                     res+=(1<<i)
             return res
