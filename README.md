@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akarshj2003/Leet/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Akarshj2003/Leet/tree/master/0009-palindrome-number) |
 ## Array
 |  |
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Akarshj2003/Leet/tree/master/0176-second-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Akarshj2003/Leet/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Akarshj2003/Leet/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
