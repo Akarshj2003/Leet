@@ -94,4 +94,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Akarshj2003/Leet/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Akarshj2003/Leet/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
