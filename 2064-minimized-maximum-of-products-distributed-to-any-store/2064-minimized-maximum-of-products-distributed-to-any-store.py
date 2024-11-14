@@ -4,7 +4,6 @@ class Solution:
             stor=0
             for q in quantities:
                 stor+=math.ceil(q/x)
-            print(stor)
             return stor<=n
 
 
@@ -12,7 +11,6 @@ class Solution:
         res=0
         while l<=r:
             x=(l+r)//2
-            print(x)
             if can(x):
                 res=x
                 r=x-1
