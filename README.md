@@ -11,7 +11,7 @@
 | ------- |
 | [0139-word-break](https://github.com/Akarshj2003/Leet/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Akarshj2003/Leet/tree/master/0300-longest-increasing-subsequence) |
-| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Akarshj2003/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Akarshj2003/Leet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akarshj2003/Leet/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -49,7 +49,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Akarshj2003/Leet/tree/master/0300-longest-increasing-subsequence) |
-| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Akarshj2003/Leet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akarshj2003/Leet/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Akarshj2003/Leet/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -93,7 +93,7 @@
 ## Prefix Sum
 |  |
 | ------- |
-| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Akarshj2003/Leet/tree/master/1940-maximum-xor-for-each-query) |
 ## Trie
 |  |
@@ -130,18 +130,18 @@
 ## Sliding Window
 |  |
 | ------- |
-| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Akarshj2003/Leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Queue
 |  |
 | ------- |
-| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
-| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
-| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
