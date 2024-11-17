@@ -1,6 +1,6 @@
 class Solution:
     def shortestSubarray(self, nums: List[int], k: int) -> int:
-        res=float("inf")
+        res=len(nums) + 1
         dq=deque()
         csum=0
         for  r in range(len(nums)):
@@ -13,4 +13,4 @@ class Solution:
             while dq and dq[-1][0]>csum:
                 dq.pop()
             dq.append((csum,r))
-        return -1 if res==float('inf') else res 
+        return -1 if res==len(nums) + 1 else res 
