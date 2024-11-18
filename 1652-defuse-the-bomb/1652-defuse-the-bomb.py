@@ -2,15 +2,17 @@ class Solution:
     def decrypt(self, code: List[int], k: int) -> List[int]:
         n=len(code)
         res=[0]*n
+        csum=0
+        l=0
         if k==0:
             return res
-        for i in range(n):
-            if k>0:
-                for j in range(i+1,i+1+k):
-                    j=j%n
-                    res[i]+=code[j]
-            elif k<0:
-                for j in range(i-1,i-1-abs(k),-1):
-                    j=j%n
-                    res[i]+=code[j]
+        for r in range(n+abs(k)):
+            csum+=code[r%n]
+            if (r-l)+1 > abs(k):
+                csum-=code[l%n]
+                l+=1
+                if k>0:
+                    res[(l-1)%n]=csum
+                elif k<0:
+                    res[(r+1)%n]=csum
         return res
