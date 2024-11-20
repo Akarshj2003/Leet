@@ -45,9 +45,10 @@
 | ------- |
 | [0139-word-break](https://github.com/Akarshj2003/Leet/tree/master/0139-word-break) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Akarshj2003/Leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
-| [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akarshj2003/Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Akarshj2003/Leet/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Akarshj2003/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/Akarshj2003/Leet/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Akarshj2003/Leet/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Akarshj2003/Leet/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Akarshj2003/Leet/tree/master/3451-string-compression-iii) |
 ## String Matching
@@ -136,6 +138,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1652-defuse-the-bomb](https://github.com/Akarshj2003/Leet/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akarshj2003/Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Akarshj2003/Leet/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Akarshj2003/Leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Queue
 |  |
