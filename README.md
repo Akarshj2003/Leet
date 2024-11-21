@@ -18,6 +18,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akarshj2003/Leet/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Akarshj2003/Leet/tree/master/1940-maximum-xor-for-each-query) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Akarshj2003/Leet/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Akarshj2003/Leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Akarshj2003/Leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akarshj2003/Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Akarshj2003/Leet/tree/master/2554-minimum-total-distance-traveled) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Akarshj2003/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Akarshj2003/Leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
@@ -47,8 +49,8 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Akarshj2003/Leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akarshj2003/Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
-| [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Akarshj2003/Leet/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,8 +78,8 @@
 | [0812-rotate-string](https://github.com/Akarshj2003/Leet/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Akarshj2003/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
-| [2580-circular-sentence](https://github.com/Akarshj2003/Leet/tree/master/2580-circular-sentence) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Akarshj2003/Leet/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2580-circular-sentence](https://github.com/Akarshj2003/Leet/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Akarshj2003/Leet/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Akarshj2003/Leet/tree/master/3451-string-compression-iii) |
 ## String Matching
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Akarshj2003/Leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
