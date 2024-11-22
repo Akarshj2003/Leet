@@ -12,6 +12,7 @@
 | [0139-word-break](https://github.com/Akarshj2003/Leet/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Akarshj2003/Leet/tree/master/0300-longest-increasing-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Akarshj2003/Leet/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Akarshj2003/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1652-defuse-the-bomb](https://github.com/Akarshj2003/Leet/tree/master/1652-defuse-the-bomb) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Akarshj2003/Leet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -39,6 +40,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Akarshj2003/Leet/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Akarshj2003/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Akarshj2003/Leet/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Akarshj2003/Leet/tree/master/0139-word-break) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Akarshj2003/Leet/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Akarshj2003/Leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akarshj2003/Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
