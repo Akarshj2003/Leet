@@ -43,7 +43,7 @@
 ## Matrix
 |  |
 | ------- |
-| [0787-sliding-puzzle](https://github.com/Akarshj2003/Leet/tree/master/0787-sliding-puzzle) |
+| [0773-sliding-puzzle](https://github.com/Akarshj2003/Leet/tree/master/0773-sliding-puzzle) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Akarshj2003/Leet/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Akarshj2003/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1861-rotating-the-box](https://github.com/Akarshj2003/Leet/tree/master/1861-rotating-the-box) |
