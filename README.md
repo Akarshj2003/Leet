@@ -11,7 +11,7 @@
 | ------- |
 | [0139-word-break](https://github.com/Akarshj2003/Leet/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Akarshj2003/Leet/tree/master/0300-longest-increasing-subsequence) |
-| [0787-sliding-puzzle](https://github.com/Akarshj2003/Leet/tree/master/0787-sliding-puzzle) |
+| [0773-sliding-puzzle](https://github.com/Akarshj2003/Leet/tree/master/0773-sliding-puzzle) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Akarshj2003/Leet/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Akarshj2003/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -172,5 +172,5 @@
 ## Breadth-First Search
 |  |
 | ------- |
-| [0787-sliding-puzzle](https://github.com/Akarshj2003/Leet/tree/master/0787-sliding-puzzle) |
+| [0773-sliding-puzzle](https://github.com/Akarshj2003/Leet/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
