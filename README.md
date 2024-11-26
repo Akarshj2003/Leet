@@ -173,4 +173,8 @@
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/Akarshj2003/Leet/tree/master/0773-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Akarshj2003/Leet/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
