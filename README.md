@@ -30,7 +30,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Akarshj2003/Leet/tree/master/3291-find-if-array-can-be-sorted) |
-| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Akarshj2003/Leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -178,13 +178,13 @@
 | ------- |
 | [0773-sliding-puzzle](https://github.com/Akarshj2003/Leet/tree/master/0773-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
-| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Akarshj2003/Leet/tree/master/3189-find-champion-ii) |
-| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
