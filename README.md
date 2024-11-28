@@ -24,6 +24,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Akarshj2003/Leet/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Akarshj2003/Leet/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Akarshj2003/Leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akarshj2003/Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Akarshj2003/Leet/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
@@ -50,6 +51,7 @@
 | [1861-rotating-the-box](https://github.com/Akarshj2003/Leet/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Akarshj2003/Leet/tree/master/1975-maximum-matrix-sum) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Akarshj2003/Leet/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -174,10 +177,16 @@
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/Akarshj2003/Leet/tree/master/0773-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Akarshj2003/Leet/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
