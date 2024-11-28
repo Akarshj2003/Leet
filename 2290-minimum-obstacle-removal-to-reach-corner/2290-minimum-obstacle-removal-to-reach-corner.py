@@ -11,12 +11,14 @@ class Solution:
             if r==row-1 and c==col-1:
                 return orum
             for mr,mc in moves:
-                if min(r+mr,c+mc) < 0 or r+mr==row or c+mc==col or (r+mr,c+mc) in visit:
+                nr=r+mr
+                nc=c+mc
+                if min(nr,nc) < 0 or nr==row or nc==col or (nr,nc) in visit:
                     continue
-                visit.add((r+mr,c+mc))
-                if grid[r+mr][c+mc]==1:
-                    q.append((r+mr,c+mc,orum+1))
+                visit.add((nr,nc))
+                if grid[nr][nc]==1:
+                    q.append((nr,nc,orum+1))
                 else:
-                    q.appendleft((r+mr,c+mc,orum))
+                    q.appendleft((nr,nc,orum))
         return -1
 
