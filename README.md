@@ -28,7 +28,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akarshj2003/Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Akarshj2003/Leet/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
-| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Akarshj2003/Leet/tree/master/3291-find-if-array-can-be-sorted) |
@@ -167,7 +167,7 @@
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
-| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -181,18 +181,18 @@
 | ------- |
 | [0773-sliding-puzzle](https://github.com/Akarshj2003/Leet/tree/master/0773-sliding-puzzle) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
-| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
-| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Akarshj2003/Leet/tree/master/3189-find-champion-ii) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
-| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
