@@ -7,7 +7,7 @@ class Solution:
         visited=set()
 
         while hep:
-            t,ro,co=heapq.heappop(hep)
+            t,ro,co=heappop(hep)
             if (ro,co)==(row-1,col-1):
                 return t
 
@@ -20,7 +20,7 @@ class Solution:
                 if abs(grid[r][c] - t) % 2 :
                     wait=0
                 nt=max(t+1,grid[r][c]+wait)
-                heapq.heappush(hep,(nt,r,c))
+                heappush(hep,(nt,r,c))
                 visited.add((r,c))
 
         
