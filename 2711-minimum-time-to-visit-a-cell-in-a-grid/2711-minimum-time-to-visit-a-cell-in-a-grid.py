@@ -5,15 +5,16 @@ class Solution:
         row,col=len(grid),len(grid[0])
         hep=[(0,0,0)]
         visited=set()
+        naiber=((0,1),(0,-1),(1,0),(-1,0))
 
         while hep:
             t,ro,co=heappop(hep)
             if (ro,co)==(row-1,col-1):
                 return t
 
-            naiber=[(ro,co+1),(ro,co-1),(ro+1,co),(ro-1,co)]
-
-            for r,c in naiber:
+    
+            for nr,nc in naiber:
+                r,c=ro+nr,co+nc
                 if r<0 or c<0 or r==row or c==col or (r,c) in visited:
                     continue
                 wait = 1
