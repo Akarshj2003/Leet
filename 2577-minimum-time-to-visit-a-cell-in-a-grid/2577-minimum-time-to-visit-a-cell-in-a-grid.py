@@ -17,7 +17,7 @@ class Solution:
                 if r<0 or c<0 or r==row or c==col or (r,c) in visited:
                     continue
                 wait = 1
-                if abs(grid[r][c] - t) % 2 :
+                if abs(grid[r][c] - t) % 2 ==1:
                     wait=0
                 nt=max(t+1,grid[r][c]+wait)
                 heappush(hep,(nt,r,c))
