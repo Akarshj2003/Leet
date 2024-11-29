@@ -53,7 +53,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Akarshj2003/Leet/tree/master/1975-maximum-matrix-sum) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Akarshj2003/Leet/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Akarshj2003/Leet/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
-| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
