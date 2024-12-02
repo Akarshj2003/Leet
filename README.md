@@ -96,6 +96,7 @@
 | [0139-word-break](https://github.com/Akarshj2003/Leet/tree/master/0139-word-break) |
 | [0812-rotate-string](https://github.com/Akarshj2003/Leet/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Akarshj2003/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Akarshj2003/Leet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Akarshj2003/Leet/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2580-circular-sentence](https://github.com/Akarshj2003/Leet/tree/master/2580-circular-sentence) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Akarshj2003/Leet/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Akarshj2003/Leet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akarshj2003/Leet/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Akarshj2003/Leet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Akarshj2003/Leet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1861-rotating-the-box](https://github.com/Akarshj2003/Leet/tree/master/1861-rotating-the-box) |
 ## Stack
