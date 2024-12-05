@@ -1,5 +1,7 @@
 class Solution:
     def canChange(self, start: str, target: str) -> bool:
+        if start==target:
+            return True
         s_positions = [(ch, i) for i, ch in enumerate(start) if ch != '_']
         t_positions = [(ch, i) for i, ch in enumerate(target) if ch != '_']
         
