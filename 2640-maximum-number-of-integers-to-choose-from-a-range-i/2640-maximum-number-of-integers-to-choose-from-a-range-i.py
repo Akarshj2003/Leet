@@ -4,12 +4,11 @@ class Solution:
         c=0
         banned=set(banned)
         for i in range(1,n+1):
-            if i not in banned:
-                if maxSum-cs < i:
-                    return c
-                if cs+i <= maxSum:
-                    cs+=i
-                    c+=1
+            if cs >= maxSum or cs+i > maxSum:
+                break
+            if i not in banned: 
+                cs+=i
+                c+=1
         return c
                 
         
