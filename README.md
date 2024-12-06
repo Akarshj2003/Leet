@@ -31,6 +31,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/Akarshj2003/Leet/tree/master/2554-minimum-total-distance-traveled) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akarshj2003/Leet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Akarshj2003/Leet/tree/master/3291-find-if-array-can-be-sorted) |
@@ -68,6 +69,7 @@
 | [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Akarshj2003/Leet/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akarshj2003/Leet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,12 +80,14 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akarshj2003/Leet/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Akarshj2003/Leet/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akarshj2003/Leet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akarshj2003/Leet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2554-minimum-total-distance-traveled](https://github.com/Akarshj2003/Leet/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akarshj2003/Leet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Akarshj2003/Leet/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
@@ -91,6 +95,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akarshj2003/Leet/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1975-maximum-matrix-sum](https://github.com/Akarshj2003/Leet/tree/master/1975-maximum-matrix-sum) |
 | [2487-optimal-partition-of-string](https://github.com/Akarshj2003/Leet/tree/master/2487-optimal-partition-of-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akarshj2003/Leet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
 | ------- |
