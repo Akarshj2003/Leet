@@ -37,6 +37,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akarshj2003/Leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Akarshj2003/Leet/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Akarshj2003/Leet/tree/master/3291-find-if-array-can-be-sorted) |
+| [3427-special-array-ii](https://github.com/Akarshj2003/Leet/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Akarshj2003/Leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -86,6 +87,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Akarshj2003/Leet/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akarshj2003/Leet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akarshj2003/Leet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Akarshj2003/Leet/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Akarshj2003/Leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Akarshj2003/Leet/tree/master/1940-maximum-xor-for-each-query) |
+| [3427-special-array-ii](https://github.com/Akarshj2003/Leet/tree/master/3427-special-array-ii) |
 ## Trie
 |  |
 | ------- |
